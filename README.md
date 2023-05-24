@@ -1,7 +1,7 @@
 <h1 align="center">Hi!
 </h1>
 
-:gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem:
+:gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem:
 
 - ![](https://github-readme-stats.vercel.app/api?username=ding-yong&show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ding-yong&layout=compact&theme=tokyonight) 
@@ -14,7 +14,7 @@
 - 😄 Pronouns: ⚡!
 - ⚡ Fun fact: ✨! 
 
-:gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem:
+:gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem::gem:
 <!--
 **ding-yong/ding-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
