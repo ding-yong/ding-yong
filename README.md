@@ -1,5 +1,15 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Deep learning, Robotic arm control, Unity model control
+- 🌱 I’m currently learning everything!
+- 📫 How to reach me: dingyong.prc@foxmail.com
+- 😄 Pronouns: ⚡!
+- ⚡ Fun fact: ✨!
+- 
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ding-yong&layout=compact&theme=tokyonight) ![Visitor Count](https://profile-counter.glitch.me/ding-yong/count.svg)
+- ![](https://github-readme-stats.vercel.app/api?username=ding-yong&show_icons=true&theme=transparent)
 
+
+- 
 <!--
 **ding-yong/ding-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
