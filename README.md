@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on Deep learning, Robotic arm control, Unity model control...
 - 🌱 I’m currently learning everything!
 - 📫 How to reach me: dingyong.prc@foxmail.com
-- 💬 Ask me about: ![](https://img.shields.io/badge/Lang-Python-yellowgreen)![](https://img.shields.io/badge/Lang-C++-brightgreen)
-![](https://img.shields.io/badge/Lang-CSharp-orange)![](https://img.shields.io/badge/Lang-MATLAB-blue)![](https://img.shields.io/badge/Lang-LUA-red)![](https://img.shields.io/badge/Framework-AI-blue)![](https://img.shields.io/badge/Framework-Unity-lightgrey)![](https://img.shields.io/badge/Framework-ROS-blue)
+- 💬 Ask me about: ![](https://img.shields.io/badge/Lang-Python-yellowgreen) ![](https://img.shields.io/badge/Lang-C++-brightgreen)
+![](https://img.shields.io/badge/Lang-CSharp-orange) ![](https://img.shields.io/badge/Lang-MATLAB-blue) ![](https://img.shields.io/badge/Lang-LUA-red) ![](https://img.shields.io/badge/Framework-AI-blue) ![](https://img.shields.io/badge/Framework-Unity-lightgrey) ![](https://img.shields.io/badge/Framework-ROS-blue)
 - 😄 Pronouns: ⚡!
 - ⚡ Fun fact: ✨! 
 
